@@ -1,0 +1,8 @@
+hA;0.5;10
+hB;0.5;5
+hC;0.5;5
+./configuration
+./configuration/serialization
+./configuration/trains
+./configuration/pictures
+./configuration/logging

@@ -1,0 +1,1 @@
+Station A-Station D;PL#40000.0,TY74,Electric-PM#41000.0,TY76,Diesel-PWS#10.5,EP12,50-PWS#12.0,EP15,60;5.0
